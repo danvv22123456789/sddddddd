@@ -1,0 +1,243 @@
+[02-Jun-2023 03:46:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:870
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1940): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 870
+[02-Jun-2023 03:51:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:870
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1940): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 870
+[06-Jun-2023 19:26:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:870
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1940): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 870
+[06-Jun-2023 23:03:17 America/Chicago] PHP Warning:  file_get_contents(messagemail.php): failed to open stream: No such file or directory in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 895
+[09-Jun-2023 23:45:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:870
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1946): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 870
+[10-Jun-2023 08:57:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 966
+[10-Jun-2023 08:57:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 966
+[10-Jun-2023 10:32:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:32:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:32:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:32:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:32:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:33:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:34:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:35:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:35:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:38:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:38:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1020
+[10-Jun-2023 10:59:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 1021
+[10-Jun-2023 11:01:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 991
+[10-Jun-2023 11:02:11 America/Chicago] PHP Warning:  require(PHPMailer\Exception.php): failed to open stream: No such file or directory in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 11
+[10-Jun-2023 11:02:11 America/Chicago] PHP Warning:  require(PHPMailer\Exception.php): failed to open stream: No such file or directory in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 11
+[10-Jun-2023 11:02:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailer\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 11
+[10-Jun-2023 11:25:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:968
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1946): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 968
+[10-Jun-2023 11:29:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:968
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1946): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 968
+[10-Jun-2023 12:38:01 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:991
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1946): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 991
+[10-Jun-2023 12:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php:985
+Stack trace:
+#0 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(1946): trabajo->insertar_resumen()
+#1 /home2/redcied4/public_html/cacce/template_ajax/includes/querys.php(179): crear_resumen()
+#2 {main}
+  thrown in /home2/redcied4/public_html/cacce/template_ajax/clases/class_trabajos.php on line 985
+[19-Jun-2023 16:43:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:43:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:43:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:44:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:44:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:45:52 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:47:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:52:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:53:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:53:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:53:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 16:54:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:00:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:05:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:05:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:06:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:06:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(85): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:08:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(82): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:08:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(82): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:08:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(82): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
+[19-Jun-2023 17:11:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redcied4_congresocacce.tbl_estado_Congreso' doesn't exist in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php:64
+Stack trace:
+#0 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php(64): PDO->query('SELECT `id_cong...')
+#1 /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/clase_Congreso.php(175): basedatos->select('SELECT `id_cong...')
+#2 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(82): Congreso->mostrarCongresos()
+#3 /home2/redcied4/cce.redcied.org/cacce/template_ajax/includes/fnc_datatbl.php(10): datatbl_congresos()
+#4 {main}
+  thrown in /home2/redcied4/cce.redcied.org/cacce/template_ajax/clases/class_base.php on line 64
